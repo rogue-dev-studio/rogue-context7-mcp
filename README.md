@@ -4,7 +4,7 @@
 
 Rogue Context7 MCP - remote library docs lookup for agents
 
-- Market: https://rogue-dev-studio.github.io/rogue-market-agent/
+- Asset Store: https://rogue-dev-studio.github.io/rogue-asset-store/
 
 ## Requirements
 
